@@ -3,6 +3,9 @@ package P10_SortingAlgorithm;
 import java.util.Scanner;
 
 public class L2_Selection_Sort {
+
+    // Time Complexity -> O(n^2)
+
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("How many elements do u want: ");
